@@ -17,3 +17,15 @@ useRef
 useMemo
 useCallback
 customHooks
+
+# props, passamos como um parâmetro para dentro de um componente(somente leitura), e para armazenar valor usamos state
+
+Embora a tipagem (typescript) dê mais trabalho no processo de criação, é ele quem assegura a produtividade na manutenção e extensão.
+
+# o que é um tipo no react?
+
+é uma forma de validar quais informações são permitidas, queias são obrigatórias e quais são os seus tipos
+
+
+o useEffect executa a primeira vez que a página é carregada e sempre que qualuqer alteração aconteça e por fim, quando algum elemento é destruído
+
